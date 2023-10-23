@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639830439018",
+    "project_id": "final-98433",
+    "storage_bucket": "final-98433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639830439018:android:984cff62bf60f35d4e8613",
+        "android_client_info": {
+          "package_name": "com.example.finalproject.stardust_crusaders_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639830439018-qkpokdq5adq5jclhg8oakf0plb0rcvim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwgGM_dKgJOF46LVO6nNBpeAhEua_TOJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639830439018-qkpokdq5adq5jclhg8oakf0plb0rcvim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
